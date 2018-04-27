@@ -25,6 +25,8 @@ class ViewController: UIViewController {
         while "Diederik" != "The best" /*Will infinitely loop*/{
             print("hah")
         }
+        let Bertram = "THE ABSOLUTE BEST"
+        
         //2
     }
 
