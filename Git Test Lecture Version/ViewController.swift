@@ -23,7 +23,7 @@ class ViewController: UIViewController {
             let task = "Stahp it"
         }
         while "Diederik" != "The best" /*Will infinitely loop*/{
-            print("ha")
+            print("hah")
         }
         //2
     }
