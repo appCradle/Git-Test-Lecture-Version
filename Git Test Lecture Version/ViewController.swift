@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("1")
         print("Bertram is the best, didi is not")
         print("Ward is the best teammate ever, Didi is not")
+        print("Stop making me do stuff")
         //2
     }
 
