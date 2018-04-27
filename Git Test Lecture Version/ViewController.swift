@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("1")
+        print("Bertram is the best, didi is not")
         //2
         
         //7
