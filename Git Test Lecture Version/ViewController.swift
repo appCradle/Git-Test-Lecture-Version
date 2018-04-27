@@ -17,6 +17,9 @@ class ViewController: UIViewController {
         print("Bertram is the best, didi is not")
         print("Ward is the best teammate ever, Didi is not")
         print("Stop making me do stuff")
+        if "Mike" == "Teacher"{
+            let task = "STAHP"
+        }
         //2
     }
 
